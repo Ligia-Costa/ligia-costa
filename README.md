@@ -7,7 +7,7 @@
 
 ![Lígia Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=ligia-costa&show_icons=true&theme=radical)
 
-![Linguagens que Utilizo:](https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-costa)](https://github.com/anuraghazra/github-readme-stats)
+![Linguagens que Utilizo:](https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-costa)
 
 ## Tecnologias que utilizo no meu dia:
 
