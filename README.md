@@ -1,4 +1,4 @@
-### Olá! Eu sou a Lígia Costa 🖐🏻
+### Olá! Seja bem vindo(a)! Prazer, Eu sou a Lígia Costa!🤍
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liiih.costa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lígia-costa-16080118b)
